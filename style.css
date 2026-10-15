@@ -25,3 +25,5 @@ h3{margin:0 0 8px;font-size:1.1rem}p{margin:0 0 12px}
 small,.muted{color:var(--muted)}
 footer{padding:28px 0;color:var(--muted);font-size:.9rem;text-align:center}
 @media(max-width:600px){header{padding:48px 0 40px}section{padding:40px 0}nav .wrap a:not(.keep){display:none}}
+
+.avatar{width:160px;height:160px;border-radius:50%;object-fit:cover;border:3px solid var(--accent,#22d3ee);margin-bottom:20px;display:block}
